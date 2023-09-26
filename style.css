@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap');
-
-*{
+*
+{
     margin: 0;
     padding: 0;
 }
 
 body{
-    background-color: rgba(72, 58, 58, 0.597) ;
+    background-color: #483a3a98;
 }
 
 h1{
@@ -24,7 +24,7 @@ h1 a{
     text-align: center;
 }
 h1:hover{
-    background-color: rgba(0, 0, 0, 0.834) ;
+    background-color: rgba(0, 0, 0, 0.834);
 }
 section{
     width: 99%;
@@ -44,7 +44,7 @@ ul li{
     text-align: center;
     background-color: rgb(219, 149, 191);
     height: 40px;
-    line-height: 40px
+    line-height: 40px;
 }
 ul li a{
     text-decoration: none;
@@ -102,9 +102,9 @@ ul li a:hover{
     transition: all 0.5s;
 }
 span{
+    width: 100%;
     font-size: 23px;
     font-weight: bold;
-    
 }
 .bio{
     color: rgba(5, 150, 124, 0.77);
