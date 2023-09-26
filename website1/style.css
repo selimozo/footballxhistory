@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgba(72, 58, 58, 0.597) ;
+}
+h1{
+    background-color: black;
+}
+h1 a{
+    color: rgb(0, 255, 0);
+    display: inline-block;
+    line-height: 100px;
+    padding: 5px;
+}
+ul{
+background-color: rgb(225, 133, 13);
+width:100%;
+}
+
+ul li{
+    text-decoration: none;
+    display: inline-block;
+    width: 25%;
+    float: left;
+    text-align: center;
+    background-color: rgb(219, 149, 191);
+    height: 40px;
+    line-height: 40px
+}
+ul li a{
+    text-decoration: none;
+    color: rgb(139, 0, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: inline-block;
+    width: 100%;
+}
+ul li a:hover{
+    background-color: rgb(90, 189, 37);
+    color: rgb(255, 255, 255);
+    transition: all 0.5s;
+}
+.par1{
+    width: 60%;
+    display:inline-block;
+    float: left;
+    height: 250px;
+    margin-top: 30px;
+    background-color: bisque;
+    overflow: auto;
+    padding: 5px 10px;
+}
+.resim1{
+    display: inline-block;
+    float: left;
+    width: 30%;
+    height: 250px;
+    margin-top: 30px;
+    padding: 5px 20px;
+}
+.par1::-webkit-scrollbar{
+    display: none;
+}
+.resim1:hover{
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.par1:hover{
+    background-color: rgb(136, 250, 94);
+    transform: scale(1.01);
+    transition: all 0.5s;
+}
