@@ -46,7 +46,7 @@ ul li{
     width: 25%;
     float: left;
     text-align: center;
-    background-color: rgb(219, 149, 191);
+    background-color: rgba(219, 149, 191, 0.829);
     height: 40px;
     line-height: 40px;
 }
@@ -103,7 +103,8 @@ ul li a:hover{
     opacity: 1;
 }
 .par1:hover{
-    background-color: rgb(136, 250, 94);
+    /* background-color: rgb(136, 250, 94); */
+    background-color: rgba(136, 250, 94, 0.455);
     transform: scale(1.01);
     transition: all 0.5s;
 }
@@ -113,7 +114,7 @@ span{
     font-weight: bold;
 }
 .bio{
-    color: rgba(5, 150, 124, 0.77);
+    color: rgba(22, 5, 150, 0.77);
     font-style: italic;
     text-decoration-line:none;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
