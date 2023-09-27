@@ -1,4 +1,3 @@
-<h1>![Ekran görüntüsü 2023-09-27 193439](https://github.com/selimozo/footballxhistory/assets/145379138/567cf4bd-8e00-486f-97de-65d0e11db1d6)</h1>
 ### FootballxHistory
 Bazı efsanevi futbolcular hakkında yazıların bulunduğu HTML & CSS ile oluşturulmuş websitesi.
 
