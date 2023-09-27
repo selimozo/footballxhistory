@@ -1,5 +1,7 @@
+![Ekran görüntüsü 2023-09-28 002235](https://github.com/selimozo/footballxhistory/assets/145379138/26b6028b-bdc1-4fa3-9b78-99923d0d042a)
+
 ### FootballxHistory
-Bazı efsanevi futbolcular hakkında yazıların bulunduğu HTML & CSS ile oluşturulmuş websitesi.
+Bazı efsanevi futbolcular hakkında çeşitli yazıların bulunduğu HTML & CSS ile oluşturulmuş bir websitesidir.
 
 
 ### Neden?
